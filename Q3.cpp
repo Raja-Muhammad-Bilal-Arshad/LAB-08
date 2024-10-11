@@ -27,8 +27,7 @@ case'/':
 // In division check if the donominator is 0 print Math error
 if(b==0)
 {cout<<"Math ERROR";
-return 1;
-}
+return 1;}
 Result=a/b;
 cout<<"Result= "<<Result;
 break;
